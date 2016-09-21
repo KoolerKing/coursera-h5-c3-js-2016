@@ -1,0 +1,29 @@
+h1, h2 {
+  font-weight: bold;
+}
+
+.content {
+  background-color: grey;
+  /*padding-top: 5px;*/
+  margin-bottom: 15px;
+}
+
+
+/* centered columns styles */
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+  }
+
+
+  .content col-lg-12 col-centered{
+    margin-left: 15px;
+    margin-right: 15px;
+  }
