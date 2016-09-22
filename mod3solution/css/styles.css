@@ -40,3 +40,28 @@ h1, h3 {
 .navbar {
   background-color: black;
 }
+/*
+a.special {
+ color: white;
+
+}*/
+
+/* unvisited link */
+#nbheader a:link {
+   color: hotpink;
+}
+
+/* visited link */
+#nbheader a:visited {
+   color: hotpink;
+}
+
+/* mouse over link */
+#nbheader a:hover {
+   color: hotpink;
+}
+
+/* selected link */
+#nbheader a:active {
+   color: whitesmoke;
+}
