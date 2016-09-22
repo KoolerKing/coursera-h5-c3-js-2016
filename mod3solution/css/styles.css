@@ -46,6 +46,11 @@ a.special {
 
 }*/
 
+.navbar-brand {
+  font-size: 125%;
+  font-weight: bold;
+}
+
 /* unvisited link */
 #nbheader a:link {
    color: silver;
