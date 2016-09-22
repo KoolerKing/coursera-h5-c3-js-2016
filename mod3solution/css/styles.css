@@ -48,17 +48,17 @@ a.special {
 
 /* unvisited link */
 #nbheader a:link {
-   color: hotpink;
+   color: silver;
 }
 
 /* visited link */
 #nbheader a:visited {
-   color: hotpink;
+   color: silver;
 }
 
 /* mouse over link */
 #nbheader a:hover {
-   color: hotpink;
+   color: lightgrey;
 }
 
 /* selected link */
